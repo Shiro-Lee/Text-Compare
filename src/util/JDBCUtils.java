@@ -8,7 +8,7 @@ public class JDBCUtils {
     private final static String database = "library";//Çý¶¯
     private final static String url = "jdbc:mysql://localhost:3306/" + database + "?serverTimezone=Hongkong";
     private final static String USER = "root";
-    private final static String PASSWORD = "241429";
+    private final static String PASSWORD = "123456";
     private static Connection conn = null;
     private static PreparedStatement stmt = null;
     private static ResultSet rs = null;
